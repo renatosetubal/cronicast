@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo atualizado do `README.md` com base nas suas novas informações e estrutura de projeto:
-
----
-
 # 📖 Cronicast - Crônicas Faladas  
 ## **"Os Ecos do Passado no Culto de Domingo"**
 
