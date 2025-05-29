@@ -74,7 +74,3 @@ Este projeto está licenciado sob a **Licença MIT** – veja o arquivo [LICENSE
 ---
 
 > *Feito com ❤️ durante minha jornada na DIO - Digital Inovation One.*
-
----
-
-Se precisar de ajuda para organizar os arquivos ou preparar o repositório para publicação no GitHub, é só avisar!
