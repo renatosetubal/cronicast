@@ -21,13 +21,13 @@ A narrativa foi revisada e aprimorada com apoio de inteligência artificial e ad
 
 Você pode ouvir a narração completa acessando o arquivo abaixo:
 
-- [▶ Escutar: Os Ecos do Passado no Culto de Domingo](audio/cronicast.mp3)
+- [▶ Escutar: Os Ecos do Passado no Culto de Domingo](https://github.com/renatosetubal/cronicast/blob/main/audio/cronicast.mp3)
 
 ---
 
 ## 🖼️ Capa da Crônica
 
-![Capa da Crônica - Os Ecos do Passado no Culto de Domingo](img/capa.pregando.jpg)
+![Capa da Crônica - Os Ecos do Passado no Culto de Domingo](https://github.com/renatosetubal/cronicast/blob/main/img/capa.pregando.png)
 
 ---
 
