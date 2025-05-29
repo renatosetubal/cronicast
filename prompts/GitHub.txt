@@ -1,0 +1,17 @@
+Crie um README.md para o Github moderno para meu projeto de entrega da DIO (Digital Inovation One)
+O nome do Projeto é Cronicast - Crônicas Faladas
+O nome da crônica é Os Ecos do Passado no Culto de Domingo
+Quero um local também para inserir uma imagem de capa se for possível
+
+A crônica foi autoral mas revisada nas ferramentas de IA e adaptada para narração. 
+As ferramentas utilizadas foram:
+ChatGpt
+Qwen
+elevenlabs
+CapCut
+
+Coloque meu contato de email remiset@gmail.com e meu blog https://remiset.wordpress.com
+
+O audio está em audio/cronicast.mp3
+A imagem de capa esta em img/capa.pregando
+Os prompts estão em /prompts

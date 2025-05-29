@@ -1,0 +1,9 @@
+Crie uma capa para mim para uma crônica que desenvolvi. 
+O título da Crônica é "Os Ecos do Passado no Culto de Domingo"
+{REGRAS}
+- A capa deve conter fiéis e um pastor pregando
+-  A imagem deve seguir padrão pixel art
+- O pastor deve ser de meia idade
+{REGRAS NEGATIVAS}
+- Na imagem não deve ter cruz
+- A imagem não pode ter palavras em ingles
